@@ -1,6 +1,4 @@
-# MAZE
-
-![](src/manual/image/example_maze.gif)
+![](src/manual/image/main.png)
 
 HOW TO BUILD:
 =============================
@@ -8,7 +6,9 @@ HOW TO BUILD:
 
 # **DOCUMENTATION MAZE**
 ## **LET'S GO!**
-MAZE - is an application that allows you to build mazes and find the shortest path. 
+MAZE - is an application that allows you to build mazes and find the shortest path.
+#### **EXAMPLE:**
+![](src/manual/image/example_maze.gif)
 #### **BASIC MAZE FUNCTIONS:**
 - Drawing area, where you can choose the start and end point of the path (Wave Algorithm).
 - Uploading file from txt-file (show maze).
